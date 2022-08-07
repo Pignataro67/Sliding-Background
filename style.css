@@ -1,4 +1,10 @@
-@nav ul li {
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+nav ul li {
     text-transform: uppercase;
     color: #fff;
     margin: 40px 0;
