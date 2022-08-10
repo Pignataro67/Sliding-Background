@@ -66,3 +66,8 @@ nav ul li {
     font-size: 26px;
     color: #fff;
   }
+
+  .circle button:focus {
+    outline: none;
+  }
+  
