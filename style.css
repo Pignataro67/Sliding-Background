@@ -50,3 +50,9 @@ nav ul li {
   position: absolute;
   top: 50%;
 }
+
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+  }
+
+  
