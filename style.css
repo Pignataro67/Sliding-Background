@@ -71,3 +71,7 @@ nav ul li {
     outline: none;
   }
   
+  .container.show-nav + nav li {
+    transform: translateX(0);
+    transition-delay: 0.3s;
+  }
